@@ -1,7 +1,7 @@
 <div class="col-md-9 col-d">
 			<div class="in-line">
 				<div class="para-an" >
-						<h3>KẾT QUẢ TÌM KIẾM</h3>
+						<h3>TÌM KIẾM</h3>
 				</div>
 				<?php
 				include('include/connect.php');
